@@ -1,6 +1,6 @@
 # Does health-risk information increase the acceptability of a meat tax and meat free days? Experimental evidence from three European countries
 
-This repository contains the data and R code required to reproduce the results presented in the manuscript titled "Does health-risk information increase the acceptability of a meat tax and meat free days? Experimental evidence from three European countries". The paper has been submitted to *Food Policy* on the 9th of January 2025.
+This repository contains the data and Stata code required to reproduce the results presented in the manuscript titled "Does health-risk information increase the acceptability of a meat tax and meat free days? Experimental evidence from three European countries". The paper has been submitted to *Food Policy* on the 9th of January 2025.
 
 This research benefitted from funding by the European Union's Horizon 2020 Framework Programme under the project <a href="fulfill-sufficiency.eu">FULFILL</a> - Fundamental decarbonisation through sufficiency by lifestyle changes  (Grant agreement ID 101003656).
 
