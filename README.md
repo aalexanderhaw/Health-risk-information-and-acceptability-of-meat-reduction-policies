@@ -1,4 +1,4 @@
-# From warmth to worry
+# Does health-risk information increase the acceptability of a meat tax and meat free days? Experimental evidence from three European countries
 
 This repository contains the data and R code required to reproduce the results presented in the manuscript titled "Does health-risk information increase the acceptability of a meat tax and meat free days? Experimental evidence from three European countries". The paper has been submitted to *Food Policy* on 26 May 2025.
 
